@@ -19,7 +19,9 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+![prob_4 1](https://github.com/gummadileepkumar/Single-server-infinite-capacity---Markov-Model/assets/118707761/772688bf-0bf6-4515-9d48-0816b64db945)
 
+![prob_4 2](https://github.com/gummadileepkumar/Single-server-infinite-capacity---Markov-Model/assets/118707761/56e9e30e-d53a-47af-a7ec-40ecd15b0969)
 
  
 ## Program
